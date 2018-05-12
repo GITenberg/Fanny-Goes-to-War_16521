@@ -1,0 +1,29 @@
+_repo: Fanny-Goes-to-War_16521
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Washington, Pat Beauchamp
+    alias: Beauchamp, Pat
+    birthdate: 1900
+    gutenberg_agent_id: '6766'
+    url: http://www.gutenberg.org/2009/agents/6766
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16521'
+  lccn: '20005996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First Aid Nursing Yeomanry'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+title: Fanny Goes to War
+url: http://www.gutenberg.org/ebooks/16521
